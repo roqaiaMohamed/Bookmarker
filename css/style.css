@@ -1,0 +1,32 @@
+body{
+    font-family: arial;
+}
+
+.hov:hover{
+    box-shadow: rgba(0, 0, 0, 0.281) 2px .3em ;
+    background-color: rgb(28, 75, 124) !important;
+}
+
+.hove:hover{
+    box-shadow: rgba(0, 0, 0, 0.281) 2px .3em ;
+    background-color: rgb(163, 27, 27) !important;
+}
+
+
+.an{
+    color: white;
+   
+}
+
+/* #demo{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    height: 100px;
+}
+
+body{
+    background-color: black;
+    cursor: none;
+} */
